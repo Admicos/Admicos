@@ -1,4 +1,5 @@
-I am trying to keep my interaction with GitHub to a minimum.
+I am trying to keep my interaction with GitHub to a minimum.  
+(Outside of any communities that already use GitHub)
 
 My new repos are at sourcehut: https://sr.ht/~admicos
 
