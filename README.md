@@ -3,8 +3,9 @@ I am trying to keep my interaction with GitHub to a minimum.
 My new repos are at sourcehut: https://sr.ht/~admicos
 
 I also accept patches and bug reports for my GitHub repos via email.  
-Send 'em here: `~admicos/projects@lists.sr.ht` ([view archives])
+Send 'em here: [`~admicos/projects@lists.sr.ht`] ([view archives])
 
+[`~admicos/projects@lists.sr.ht`]: mailto:~admicos/projects@lists.sr.ht
 [view archives]: https://lists.sr.ht/~admicos/projects
 
 Please edit your mail subject to refer to the project in question.
