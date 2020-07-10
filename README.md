@@ -1,16 +1,17 @@
-### Hi there 👋
+I am trying to keep my interaction with GitHub to a minimum.
 
-<!--
-**Admicos/Admicos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My new repos are at sourcehut: https://sr.ht/~admicos
 
-Here are some ideas to get you started:
+I also accept patches and bug reports for my GitHub repos via email.  
+Send 'em here: `~admicos/projects@lists.sr.ht` ([view archives])
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[view archives]: https://lists.sr.ht/~admicos/projects
+
+Please edit your mail subject to refer to the project in question.
+
+If you're using git send-email to send patches, which you __should__, 
+run this in my repos after you've cloned them:
+
+```sh
+git config format.subjectprefix "PATCH projectname"
+```
