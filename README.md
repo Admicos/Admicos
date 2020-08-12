@@ -1,7 +1,8 @@
 I am trying to keep my interaction with GitHub to a minimum.  
 (Outside of any communities that already use GitHub)
 
-My new repos are at sourcehut: https://sr.ht/~admicos
+My new repos are split between: [sourcehut](https://sr.ht/~admicos) and
+[my own server](https://git.ebc.li)
 
 I also accept patches and bug reports for my GitHub repos via email.  
 Send 'em here: [`~admicos/projects@lists.sr.ht`] ([view archives])
